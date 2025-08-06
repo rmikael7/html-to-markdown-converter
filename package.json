@@ -1,0 +1,7 @@
+{
+  "name": "html-to-markdown-converter",
+  "version": "1.0.0",
+  "dependencies": {
+    "turndown": "^7.1.3"
+  }
+}
